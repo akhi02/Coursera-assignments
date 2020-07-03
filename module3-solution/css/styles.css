@@ -5,13 +5,13 @@
 }
 
 h1 {
-	font-family: Brushstroke, fantasy;
+	font-family: fantasy;
 	color: #000000;
 }
 
 body {
 	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	background-color: #B0C4DE;
 
 }
 
@@ -31,7 +31,7 @@ p {
 
 section {
 	border:	1px solid black;
-	background-color: #00FF99;
+	background-color: #FFFFE0;
 	width: 100%;
 	height: auto;
 	font-family: Helvetica;
@@ -45,13 +45,13 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: cursive;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+	background-color: #7B68EE;
 }
 
 #beef {
@@ -59,7 +59,7 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: cursive;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
@@ -73,12 +73,12 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: cursive;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #6495ED;
+	background-color: #A52A2A;
 	color: white;
 	padding: 5px;
 }
@@ -106,7 +106,7 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: #FC5F06;
+  background-color: #2E8B57;
   color: #FFFFFF;
 }
 
@@ -123,7 +123,8 @@ section {
 }
 
 .nav-brand {
-  color: #FFFFFF;
+  color: #FFFFFF; 
+  font-family: serif;
   font-size: 1.5em;
 }
 
